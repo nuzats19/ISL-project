@@ -23,4 +23,4 @@ Model training involves using the SVC algorithm from scikit-learn to predict pur
 3. Evaluating the model's performance using metrics such as accuracy, precision, recall, and F1-score.
 
 # Results
-The results section includes the evaluation metrics for the SVC model, visualizations of the model's performance, and actionable insights for marketing strategies based on the predictive features.
+The results section includes the evaluation metrics for the SVC model, visualizations of the model's performance.
